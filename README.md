@@ -4,14 +4,14 @@
 
 **Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://taesung.me/SwappingAutoencoder/)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)] 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan/)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)] 
 
 
 ## Image-to-Image Translation
 
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei A. Efros, Richard Zhang.*<br>
-NeurIPS 2020). [[PDF](https://arxiv.org/abs/2007.00653)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/taesungp/swapping-autoencoder-pytorch)] [[Rosinality](https://github.com/rosinality/swapping-autoencoder-pytorch)] 
+NeurIPS 2020). [[PDF](https://arxiv.org/abs/2007.00653)] [[Project](https://taesung.me/SwappingAutoencoder/)] [[Github](https://github.com/taesungp/swapping-autoencoder-pytorch)] [[Rosinality](https://github.com/rosinality/swapping-autoencoder-pytorch)] 
 
 **Unsupervised image-to-image translation method via pre-trained StyleGAN2 network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
