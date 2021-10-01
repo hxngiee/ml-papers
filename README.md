@@ -22,6 +22,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)] [[Github](https://github.c
 arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04325)] [[Github](https://github.com/brownvc/ganimorph)] 
 
 
+## StyleTransfer
+
+**Interactive Video Stylization Using Few-Shot Patch-Based Training.**<br>
+*ONDŘEJ TEXLER, DAVID FUTSCHIK, MICHAL KUČERA, ONDŘEJ JAMRIŠKA, and ŠÁRKA SOCHOROVÁ.*<br>
+SIGGRAPH 2020. [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-based_training_main.pdf)] [[Project](https://ondrejtexler.github.io/patch-based_training/)] [[Github](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)] 
+
 ## Normalization
 
 **Positional Normalization.**<br>
@@ -60,3 +66,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Project](https://hanlab.m
 **[3] image-to-image :** https://github.com/lzhbrian/image-to-image-papers, https://github.com/weihaox/awesome-image-translation
 
 **[4] implementations of Generative Adversarial Networks :** https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+
+**[5] neural rendering :** https://github.com/weihaox/awesome-neural-rendering, https://github.com/yenchenlin/awesome-NeRF
+
+**[6] 3D human body :** https://github.com/3DFaceBody/awesome-3dbody-papers
