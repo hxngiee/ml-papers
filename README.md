@@ -49,6 +49,13 @@ CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Sty
 CVPR 2021(oral). [[PDF](https://arxiv.org/abs/2103.16831)] [[Project](http://cvlab.postech.ac.kr/research/CHM)] [[Github](https://github.com/juhongm999/chm)] 
 
 
+## Vision Transformer
+
+**Patches Are All You Need?**<br>
+*Anonymous authors.*<br>
+ICLR 2022. [[PDF](https://openreview.net/pdf?id=TVHS5Y4dNvM)] [[Github](https://github.com/tmp-iclr/convmixer)] 
+
+
 ## Model Compression
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**<br>
