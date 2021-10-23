@@ -9,9 +9,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 
 ## Image-to-Image Translation
 
+**You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
+*Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2012.04781)] [[Github](https://github.com/boschresearch/OASIS)] 
+
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei A. Efros, Richard Zhang.*<br>
-NeurIPS 2020). [[PDF](https://arxiv.org/abs/2007.00653)] [[Project](https://taesung.me/SwappingAutoencoder/)] [[Github](https://github.com/taesungp/swapping-autoencoder-pytorch)] [[Rosinality](https://github.com/rosinality/swapping-autoencoder-pytorch)] 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Project](https://taesung.me/SwappingAutoencoder/)] [[Github](https://github.com/taesungp/swapping-autoencoder-pytorch)] [[Rosinality](https://github.com/rosinality/swapping-autoencoder-pytorch)] 
 
 **Unsupervised image-to-image translation method via pre-trained StyleGAN2 network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
