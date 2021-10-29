@@ -9,6 +9,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 
 ## Image-to-Image Translation
 
+**A U-Net Based Discriminator for Generative Adversarial Networks.**<br>
+*Schonfeld, Edgar and Schiele, Bernt and Khoreva, Anna.*<br>
+CVPR 2020. [[PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_CVPR_2020%2Fpapers%2FSchonfeld_A_U-Net_Based_Discriminator_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf&clen=1105207&chunk=true)] [[Github](https://github.com/boschresearch/unetgan)] 
+
 **You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
 *Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2012.04781)] [[Github](https://github.com/boschresearch/OASIS)] 
