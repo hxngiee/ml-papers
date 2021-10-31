@@ -29,7 +29,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)] [[Github](https://github.c
 *Aaron Gokaslan, Vivek Ramanujan, Daniel Ritchie, Kwang In Kim, James Tompkin.*<br>
 arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04325)] [[Github](https://github.com/brownvc/ganimorph)] 
 
+
 ## Image Editing
+
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
+*Hyunsu Kim, Yunjey Choi, Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)] 
+
 
 ## Neural Radiance Field
 
@@ -38,9 +44,6 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04325)] [[Github](https://github.c
 *Anonymous.*<br>
 ICLR 2022. [[PDF](https://openreview.net/forum?id=iUuzzTMUw9K)] 
 
-**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
-*Hyunsu Kim, Yunjey Choi, Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)] 
 
 ## StyleTransfer
 
