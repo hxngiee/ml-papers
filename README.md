@@ -31,6 +31,13 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04325)] [[Github](https://github.c
 
 ## Image Editing
 
+## Neural Radiance Field
+
+**StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis 
+.**<br>
+*Anonymous.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=iUuzzTMUw9K)] 
+
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
 *Hyunsu Kim, Yunjey Choi, Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)] 
