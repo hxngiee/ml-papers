@@ -61,7 +61,7 @@ SIGGRAPH 2020. [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-base
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.07815)] [[Github](https://github.com/SwordHolderSH/ArtCoder)] 
 
 **Q-Art Code: Generating Scanning-robust Art-style QR Codes by Deformable Convolution.**<br>
-*Su, Hao and Niu, Jianwei and Liu, Xuefeng and Li, Qingfeng and Wan, Ji and Xu, Mingliang and Ren, Tao.*<br>
+*Hao Su, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu, Tao Ren.*<br>
 ACM International Conference on Multimedia 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475239)] 
 ## Normalization
 
