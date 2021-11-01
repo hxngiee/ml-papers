@@ -112,3 +112,5 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Project](https://hanlab.m
 **[5] neural rendering :** https://github.com/weihaox/awesome-neural-rendering, https://github.com/yenchenlin/awesome-NeRF
 
 **[6] 3D human body :** https://github.com/3DFaceBody/awesome-3dbody-papers
+
+**[7] Image-Colorization :** https://github.com/MarkMoHR/Awesome-Image-Colorization
