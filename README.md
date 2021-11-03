@@ -14,13 +14,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 
 ## Image-to-Image Translation
 
-**A U-Net Based Discriminator for Generative Adversarial Networks.**<br>
-*Schonfeld, Edgar and Schiele, Bernt and Khoreva, Anna.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12655)] [[Github](https://github.com/boschresearch/unetgan)] 
+**GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**<br>
+*Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
+ICCV 2021(Oral). [[PDF](https://arxiv.org/abs/2104.07659)] [[Project](https://nvlabs.github.io/GANcraft/)] [[Github](https://github.com/NVlabs/imaginaire)] 
 
 **You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
 *Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2012.04781)] [[Github](https://github.com/boschresearch/OASIS)] 
+
+**A U-Net Based Discriminator for Generative Adversarial Networks.**<br>
+*Schonfeld, Edgar and Schiele, Bernt and Khoreva, Anna.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12655)] [[Github](https://github.com/boschresearch/unetgan)] 
 
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei A. Efros, Richard Zhang.*<br>
