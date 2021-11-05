@@ -48,11 +48,14 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 
 ## Neural Radiance Field
 
-**StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis 
-.**<br>
+**StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis.**<br>
 *Anonymous.*<br>
 ICLR 2022. [[PDF](https://openreview.net/forum?id=iUuzzTMUw9K)] 
 
+
+**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
+*Schwarz, Katja and Liao, Yiyi and Niemeyer, Michael and Geiger, Andreas*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Project](https://avg.is.tuebingen.mpg.de/publications/schwarz2020neurips)] [[Github](https://github.com/autonomousvision/graf)] 
 
 ## StyleTransfer
 
