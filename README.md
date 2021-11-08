@@ -121,3 +121,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Project](https://hanlab.m
 **[6] 3D human body :** https://github.com/3DFaceBody/awesome-3dbody-papers
 
 **[7] Image-Colorization :** https://github.com/MarkMoHR/Awesome-Image-Colorization
+
+## Accepted Papers
+
+**[1] neurips_2021:** https://papers.labml.ai/papers/neurips_2021
+
+**[2] iclr_2022:** https://papers.labml.ai/papers/iclr_2022
