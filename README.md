@@ -2,10 +2,13 @@
 
 ## Image Generation
 
+**StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
+*Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
+ICML under review.
+
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br>
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br>
-ICCV  2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)] [[Github](https://github.com/google/explaining-in-style)] 
-
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)] [[Github](https://github.com/google/explaining-in-style)] 
 
 **Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
