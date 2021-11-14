@@ -21,6 +21,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 *Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
 ICCV 2021(Oral). [[PDF](https://arxiv.org/abs/2104.07659)] [[Project](https://nvlabs.github.io/GANcraft/)] [[Github](https://github.com/NVlabs/imaginaire)] 
 
+**SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation.**<br>
+*Xuning Shao, Weidong Zhang.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.16219)] [[Github](https://github.com/NetEase-GameAI/SPatchGAN)] 
+
 **You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
 *Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2012.04781)] [[Github](https://github.com/boschresearch/OASIS)] 
@@ -36,7 +40,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Project](https://taesu
 **Unsupervised image-to-image translation method via pre-trained StyleGAN2 network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)] [[Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)]  
-
 **Improving Shape Deformation in Unsupervised Image-to-Image Translation.**<br>
 *Aaron Gokaslan, Vivek Ramanujan, Daniel Ritchie, Kwang In Kim, James Tompkin.*<br>
 arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04325)] [[Github](https://github.com/brownvc/ganimorph)] 
