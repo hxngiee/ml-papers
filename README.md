@@ -2,6 +2,10 @@
 
 ## Image Generation
 
+**Projected GANs Converge Faster.**<br>
+*Axel Sauer, Kashyap Chitta, Jens Müller, Andreas Geiger.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.01007)] [[Project](https://sites.google.com/view/projected-gan/)] [[Github](https://github.com/autonomousvision/projected_gan)] 
+
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 ICML under review.
