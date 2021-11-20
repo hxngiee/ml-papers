@@ -6,6 +6,10 @@
 *Axel Sauer, Kashyap Chitta, Jens Müller, Andreas Geiger.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.01007)] [[Project](https://sites.google.com/view/projected-gan/)] [[Github](https://github.com/autonomousvision/projected_gan)] 
 
+**ReStyle : A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br>
+*Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.02699)] [[Project](https://yuval-alaluf.github.io/restyle-encoder/)] [[Github](https://github.com/yuval-alaluf/restyle-encoder)]  
+
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 ICML under review.
@@ -24,6 +28,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 **GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**<br>
 *Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
 ICCV 2021(Oral). [[PDF](https://arxiv.org/abs/2104.07659)] [[Project](https://nvlabs.github.io/GANcraft/)] [[Github](https://github.com/NVlabs/imaginaire)] 
+
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
+*Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2008.00951)] [[Project](https://eladrich.github.io/pixel2style2pixel/)] [[Github](https://github.com/eladrich/pixel2style2pixel)] 
 
 **SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation.**<br>
 *Xuning Shao, Weidong Zhang.*<br>
