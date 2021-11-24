@@ -2,6 +2,10 @@
 
 ## Image Generation
 
+**GANformer: Generative Adversarial Transformers.**<br>
+*Drew A. Hudson, C. Lawrence Zitnick.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2103.01209)] [[Github](https://github.com/dorarad/gansformer)] 
+
 **Projected GANs Converge Faster.**<br>
 *Axel Sauer, Kashyap Chitta, Jens Müller, Andreas Geiger.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.01007)] [[Project](https://sites.google.com/view/projected-gan/)] [[Github](https://github.com/autonomousvision/projected_gan)] 
