@@ -2,6 +2,10 @@
 
 ## Image Generation
 
+**EqGAN : Improving GAN Equilibrium by Raising Spatial Awareness.**<br>
+*Jianyuan Wang, Ceyuan Yang, Yinghao Xu, Yujun Shen, Hongdong Li, Bolei Zhou.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2112.00718)] [[Project](https://genforce.github.io/eqgan/)] [[Github](https://github.com/genforce/eqgan)] 
+
 **GANformer: Generative Adversarial Transformers.**<br>
 *Drew A. Hudson, C. Lawrence Zitnick.*<br>
 ICML 2021. [[PDF](https://arxiv.org/abs/2103.01209)] [[Github](https://github.com/dorarad/gansformer)] 
