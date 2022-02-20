@@ -2,6 +2,14 @@
 
 ## Image Generation
 
+**Diverse facial inpainting guided by exemplars.**<br>
+*Wanglong Lu, Hanli Zhao, Xianta Jiang, Xiaogang Jin, Min Wang, Jiankai Lyu, Kaijie Shi.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06358)] 
+
+**Multi-level Latent Space Structuring for Generative Control.**<br>
+*ORENKATZIR, VICKY PEREPELOOK, DANI LISCHINSKI, DANIEL COHEN-OR.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)] 
+
 **EqGAN : Improving GAN Equilibrium by Raising Spatial Awareness.**<br>
 *Jianyuan Wang, Ceyuan Yang, Yinghao Xu, Yujun Shen, Hongdong Li, Bolei Zhou.*<br>
 ICML 2021. [[PDF](https://arxiv.org/abs/2112.00718)] [[Project](https://genforce.github.io/eqgan/)] [[Github](https://github.com/genforce/eqgan)] 
