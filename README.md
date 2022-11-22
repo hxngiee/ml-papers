@@ -19,6 +19,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2211.09800)] [[Project](https://www.tim
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.11427)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
 
 
+# GANs
 ## Image Generation
 
 **Diverse facial inpainting guided by exemplars.**<br>
