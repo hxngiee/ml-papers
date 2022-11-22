@@ -1,5 +1,24 @@
 # ml-papers
 
+**CRIS: CLIP-Driven Referring Image Segmentation.**<br>
+*Zhaoqing Wang, Yu Lu, Qiang Li, Xunqiang Tao, Yandong Guo, Mingming Gong, Tongliang Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15174)]
+
+# Diffusion Models
+## Image Editing
+**Blended Latent Diffusion.**<br>
+*Omri Avrahami, Ohad Fried, Dani Lischinski.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.02779)] [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)] [[Github](https://github.com/omriav/blended-latent-diffusion)] 
+
+**InstructPix2Pix: Learning to Follow Image Editing Instructions.**<br>
+*Tim Brooks, Aleksander Holynski, Alexei A. Efros.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.09800)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
+
+**DiffEdit: Diffusion-based semantic image editing with mask guidance.**<br>
+*Bahjat Kawar, Shiran Zada, Oran Lang, Omer Tov, Huiwen Chang, Tali Dekel, Inbar Mosseri, Michal Irani.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.11427)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
+
+
 ## Image Generation
 
 **Diverse facial inpainting guided by exemplars.**<br>
